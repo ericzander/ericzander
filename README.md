@@ -30,9 +30,6 @@ tools
                 <td><img align="left" alt="Matplotlib" width="30px" height="28px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" /></td>
                 <td>Matplotlib</td>
             </tr><tr>
-                <td><img align="left" alt="Seaborn" width="30px" height="28px" style="padding-right:10px;" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" /></td>
-                <td>Seaborn</td>
-            </tr><tr>
                 <td><img align="left" alt="scikit-learn" width="30px" height="28px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" /></td>
                 <td>scikit-learn</td>
             </tr><tr>
@@ -71,7 +68,7 @@ tools
     </td><td>
         <table>
             <tr>
-                <td><img align="left" alt="R" width="30px" height="35px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" /></td>
+                <td><img align="left" alt="R" width="30px" height="35px" style="padding-right:10px;" src="https://www.r-project.org/logo/Rlogo.svg" /></td>
                 <td>R</td>
             </tr><tr>
                 <td><img align="left" alt="Jupyter" width="30px" height="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" /></td>
