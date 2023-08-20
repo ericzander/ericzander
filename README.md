@@ -12,79 +12,79 @@ eyecatchers
 
 ## Tools
 
-<table>
+<table style="background-color:#FFFFE0;">
     <tr><td>
         <table>
             <tr>
-                <td><img align="left" alt="Python" width="30px" height="28px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /></td>
+                <td><img align="left" alt="Python" width="35px" height="32px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /></td>
                 <td>Python</td>
             </tr><tr>
-                <td><img align="left" alt="NumPy" width="30px" height="28px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /></td>
+                <td><img align="left" alt="NumPy" width="35px" height="32px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /></td>
                 <td>NumPy</td>
             </tr><tr>
-                <td><img align="left" alt="Pandas" width="30px" height="28px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /></td>
+                <td><img align="left" alt="Pandas" width="35px" height="32px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /></td>
                 <td>Pandas</td>
             </tr><tr>
-                <td><img align="left" alt="Matplotlib" width="30px" height="28px" style="padding-right:5px;" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" /></td>
+                <td><img align="left" alt="Matplotlib" width="35px" height="32px" style="padding-right:5px;" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" /></td>
                 <td>Matplotlib</td>
             </tr><tr>
-                <td><img align="left" alt="scikit-learn" width="30px" height="28px" style="padding-right:5px;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" /></td>
+                <td><img align="left" alt="scikit-learn" width="35px" height="32px" style="padding-right:5px;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" /></td>
                 <td>scikit-learn</td>
             </tr><tr>
-                <td><img align="left" alt="TensorFlow" width="30px" height="28px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /></td>
+                <td><img align="left" alt="TensorFlow" width="35px" height="32px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /></td>
                 <td>TensorFlow</td>
             </tr><tr>
-                <td><img align="left" alt="PyTorch" width="30px" height="28px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" /></td>
+                <td><img align="left" alt="PyTorch" width="35px" height="32px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" /></td>
                 <td>PyTorch</td>
             </tr>
         </table>
     </td><td>
         <table>
             <tr>
-                <td><img align="left" alt="R" width="30px" height="28px" style="padding-right:5px;" src="https://www.r-project.org/logo/Rlogo.svg" /></td>
+                <td><img align="left" alt="R" width="35px" height="32px" style="padding-right:5px;" src="https://www.r-project.org/logo/Rlogo.svg" /></td>
                 <td>R</td>
             </tr><tr>
-                <td><img align="left" alt="Jupyter" width="30px" height="28px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" /></td>
+                <td><img align="left" alt="Jupyter" width="35px" height="32px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" /></td>
                 <td>Jupyter</td>
             </tr><tr>
-                <td><img align="left" alt="Anaconda" width="30px" height="28px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" /></td>
+                <td><img align="left" alt="Anaconda" width="35px" height="32px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" /></td>
                 <td>Anaconda</td>
             </tr><tr>
-                <td><img align="left" alt="MySQL" width="30px" height="28px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></td>
+                <td><img align="left" alt="MySQL" width="35px" height="32px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></td>
                 <td>MySQL</td>
             </tr><tr>
-                <td><img align="left" alt="SQLite" width="30px" height="28px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" /></td>
+                <td><img align="left" alt="SQLite" width="35px" height="32px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" /></td>
                 <td>SQLite</td>
             </tr><tr>
-                <td><img align="left" alt="Excel" width="30px" height="28px" style="padding-right:5px;" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" /></td>
+                <td><img align="left" alt="Excel" width="35px" height="32px" style="padding-right:5px;" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" /></td>
                 <td>Excel</td>
             </tr><tr>
-                <td><img align="left" alt="Sheets" width="30px" height="28px" style="padding-right:5px;" src="https://upload.wikimedia.org/wikipedia/commons/3/30/Google_Sheets_logo_%282014-2020%29.svg" /></td>
+                <td><img align="left" alt="Sheets" width="35px" height="32px" style="padding-right:5px;" src="https://upload.wikimedia.org/wikipedia/commons/3/30/Google_Sheets_logo_%282014-2020%29.svg" /></td>
                 <td>Sheets</td>
             </tr>
         </table>
     </td><td>
         <table>
             </tr><tr>
-                <td><img align="left" alt="C" width="30px" height="28px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" /></td>
+                <td><img align="left" alt="C" width="35px" height="32px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" /></td>
                 <td>C</td>
             </tr><tr>
-                <td><img align="left" alt="C++" width="30px" height="28px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" /></td>
+                <td><img align="left" alt="C++" width="35px" height="32px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" /></td>
                 <td>C++</td>
             <tr>
-                <td><img align="left" alt="Git" width="30px" height="28px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></td>
+                <td><img align="left" alt="Git" width="35px" height="32px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></td>
                 <td>Git</td>
             </tr><tr>
-                <td><img align="left" alt="GitHub" width="30px" height="28px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></td>
+                <td><img align="left" alt="GitHub" width="35px" height="32px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></td>
                 <td>GitHub</td>
             </tr><tr>
-                <td><img align="left" alt="VS Code" width="30px" height="28px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></td>
+                <td><img align="left" alt="VS Code" width="35px" height="32px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></td>
                 <td>VS Code</td>
             </tr><tr>
-                <td><img align="left" alt="Linux" width="30px" height="28px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></td>
+                <td><img align="left" alt="Linux" width="35px" height="32px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></td>
                 <td>Linux</td>
             </tr><tr>
-                <td><img align="left" alt="Windows" width="30px" height="28px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></td>
+                <td><img align="left" alt="Windows" width="35px" height="32px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></td>
                 <td>Windows</td>
             </tr>
         </table>
