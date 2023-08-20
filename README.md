@@ -41,22 +41,14 @@ tools
                 <td><img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /></td>
                 <td>Pandas</td>
             </tr><tr>
-                <td><img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /></td>
-                <td>TensorFlow</td>
+                <td><img align="left" alt="Matplotlib" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" /></td>
+                <td>Matplotlib</td>
             </tr><tr>
-                <td><img align="left" alt="PyTorch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" /></td>
-                <td>PyTorch</td>
-            </tr>
-        </table>
-    </td><td>
-        </td><td>
-        <table>
-            <tr>
-                <td><img align="left" alt="Scikit" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /></td>
-                <td>NumPy</td>
+                <td><img align="left" alt="Seaborn" width="30px" style="padding-right:10px;" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" /></td>
+                <td>Seaborn</td>
             </tr><tr>
-                <td><img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /></td>
-                <td>Pandas</td>
+                <td><img align="left" alt="scikit-learn" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" /></td>
+                <td>scikit-learn</td>
             </tr><tr>
                 <td><img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /></td>
                 <td>TensorFlow</td>
@@ -70,6 +62,9 @@ tools
             <tr>
                 <td><img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></td>
                 <td>Git</td>
+            </tr><tr>
+                <td><img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></td>
+                <td>GitHub</td>
             </tr><tr>
                 <td><img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></td>
                 <td>VS Code</td>
