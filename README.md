@@ -1,8 +1,19 @@
 # Eric Zander
 
+<img src="assets/1000009864.jpg" alt="Pic" width="200"/>
+
 **`Machine Learning | Data Science | Applied History`**
 
 ## About Me
+
+Starting with a background in applied history, I have followed the impact of emerging technologies. This interest led me to the fields of data science and machine learning, where I apply analytical skills alongside historical insights to view data science as a modern form of applied history.
+
+In my early projects, I focused on explainable modeling for medicine, both in diagnosis and treatment. This work laid the foundation for my ongoing interest in making complex systems more transparent and understandable. I've presented at fuzzy logic conferences on methods for explainable control systems and have developed machine learning curricula to make complex concepts more accessible.
+
+Currently, I am in my second year of pursuing a Master of Science in Computer Science at the University of Oregon, where my interests have expanded to include graph machine learning and probabilistic methods in AI.
+
+I also enjoy fitness, video games, and the universally beloved film Chicken Little.
+
 
 ## Skills
 
