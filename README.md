@@ -75,8 +75,8 @@ I also enjoy fitness, video games, and the universally beloved film Chicken Litt
 
 ## Certifications
 
-- [AWS Certified Cloud Practitioner (CCP)](https://www.credly.com/badges/200078e5-36cb-4908-a710-82f87d6124f6/linked_in_profile) - Issued: January 2024
 - [AWS Certified Solutions Architect - Associate (SSA)](https://www.credly.com/badges/2029d1cf-7fef-4543-9537-0203fa8308d5/public_url) - Issued: May 2024
+- [AWS Certified Cloud Practitioner (CCP)](https://www.credly.com/badges/200078e5-36cb-4908-a710-82f87d6124f6/linked_in_profile) - Issued: January 2024
 - [Google Data Analytics Professional Certificate](https://www.credly.com/badges/5eef71f4-84ff-4eb1-8c89-ba72dd83e265/linked_in_profile) - Issued: August 2023
 
 ## Contact Information
