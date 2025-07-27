@@ -65,10 +65,11 @@ I also enjoy fitness, video games, and the universally beloved film Chicken Litt
 
 - **K-12 Summer Curriculum Developer**  
   *Machine Learning*  
-  Open World, Oct 2022 - May 2023
+  Open World with DigiPen, Oct 2022 - May 2023
 
-- **Data Analysis Teaching Assistant**  
-  DigiPen, Sep 2021 - Apr 2023
+- **Teaching Assistant**  
+  *Data Analysis*  
+  DigiPen Institute of Technology, Sep 2021 - Apr 2023
 
 - **Research Writer**  
   Microsoft through Simplicity Consulting, Jan 2021 - May 2021
