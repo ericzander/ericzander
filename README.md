@@ -40,7 +40,8 @@ I also enjoy fitness, video games, and the universally beloved film Chicken Litt
 ## Portfolio Projects
 
 > Under construction
-- **Anomaly Detection in PyPi Dependency Graphs**
+- **[WIP] Anomaly Detection in PyPi Dependency Graphs // [GitHub](https://github.com/ericzander/pypi-anomaly-detection)**
+ ![Anomaly Detection](assets/projects/package_dependency_graph.png)
 
 ## Education
 
