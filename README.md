@@ -37,12 +37,17 @@ I also enjoy fitness, video games, and the universally beloved film Chicken Litt
     - Genetic Algorithms
     - Fuzzy Logic
 
-## Portfolio Projects
+## Projects
 
 > Under construction
 - **[WIP] Anomaly Detection in Python Package Index (PyPI) Dependency Graphs // [GitHub](https://github.com/ericzander/pypi-anomaly-detection)**
 
   ![Anomaly Detection](assets/projects/package_dependency_graph.png?v=2)
+
+- **[WIP] Mario Kart World Timesheet Community Tool**
+
+  [www.mkworldtimes.com](www.mkworldtimes.com)
+ 
 
 ## Education
 
