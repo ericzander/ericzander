@@ -46,9 +46,8 @@ I also enjoy fitness, video games, and the universally beloved film Chicken Litt
 
 - **[WIP] Mario Kart World Timesheet Community Tool**
 
-  [www.mkworldtimes.com](www.mkworldtimes.com)
+  [www.mkworldtimes.com](https://www.mkworldtimes.com)
  
-
 ## Education
 
 - **MS in Computer Science**  
