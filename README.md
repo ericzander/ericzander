@@ -43,13 +43,7 @@ I also enjoy fitness, video games, and the universally beloved film Chicken Litt
 
   <img src="assets/projects/package_dependency_graph.png?v=2" alt="Anomaly Detection" width="600"/>
 
-### **Mario Kart World Timesheet Community Tool**
-
-  <h2 align="center" style="font-size:1.5em; margin: 20px 0;">
-    <a href="https://www.mkworldtimes.com" style="color:#1a73e8; text-decoration:none; font-weight:bold;">
-      www.mkworldtimes.com
-    </a>
-  </h2>
+### **Mario Kart World Timesheet Community Tool // [www.mkworldtimes](https://www.mkworldtimes.com)**
 
 > A dashboard for entering and comparing time trial data in Mario Kart World to staff ghosts, world records (updated daily), and other players. Supports desktop and mobile.
 
