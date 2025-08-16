@@ -39,26 +39,27 @@ I also enjoy fitness, video games, and the universally beloved film Chicken Litt
 
 ## Projects
 
-> Under construction
-- **[WIP] Anomaly Detection in Python Package Index (PyPI) Dependency Graphs // [GitHub](https://github.com/ericzander/pypi-anomaly-detection)**
+### **[WIP] Anomaly Detection in Python Package Index (PyPI) Dependency Graphs // [GitHub](https://github.com/ericzander/pypi-anomaly-detection)**
 
-  <img src="assets/projects/package_dependency_graph.png?v=2" alt="Anomaly Detection" width="800"/>
+  <img src="assets/projects/package_dependency_graph.png?v=2" alt="Anomaly Detection" width="600"/>
 
-- **Mario Kart World Timesheet Community Tool**
+### **Mario Kart World Timesheet Community Tool**
 
-  [www.mkworldtimes.com](https://www.mkworldtimes.com)
+  <h2 align="center" style="font-size:1.5em; margin: 20px 0;">
+    <a href="https://www.mkworldtimes.com" style="color:#1a73e8; text-decoration:none; font-weight:bold;">
+      www.mkworldtimes.com
+    </a>
+  </h2>
 
-- **Mario Kart World Timesheet Community Tool**
-
-  [www.mkworldtimes.com](https://www.mkworldtimes.com)
+> A dashboard for entering and comparing time trial data in Mario Kart World to staff ghosts, world records (updated daily), and other players. Supports desktop and mobile.
 
   <table style="background-color:rgb(47, 46, 47); border: 10px rgb(136, 136, 136); border-radius: 6px; padding: 30px; margin: 20px 0; width: 100%;">
-    <tr><td><img src="assets/projects/mkw/header.png" alt="MKW Header" width="800"/></td></tr>
-    <tr><td><img src="assets/projects/mkw/table_compact.png" alt="MKW Compact" width="800"/></td></tr>
-    <tr><td><img src="assets/projects/mkw/table_staff.png" alt="MKW Staff" width="800"/></td></tr>
-    <tr><td><img src="assets/projects/mkw/table_wr.png" alt="MKW Records" width="800"/></td></tr>
-    <tr><td><img src="assets/projects/mkw/lap_times.png" alt="MKW Laps" width="800"/></td></tr>
-    <tr><td><img src="assets/projects/mkw/table_laps.png" alt="MKW Lap Times" width="800"/></td></tr>
+    <tr><td><img src="assets/projects/mkw/header.png" alt="MKW Header" width="600"/></td></tr>
+    <tr><td><img src="assets/projects/mkw/table_compact.png" alt="MKW Compact" width="600"/></td></tr>
+    <tr><td><img src="assets/projects/mkw/table_staff.png" alt="MKW Staff" width="600"/></td></tr>
+    <tr><td><img src="assets/projects/mkw/table_wr.png" alt="MKW Records" width="600"/></td></tr>
+    <tr><td><img src="assets/projects/mkw/lap_times.png" alt="MKW Laps" width="600"/></td></tr>
+    <tr><td><img src="assets/projects/mkw/table_laps.png" alt="MKW Lap Times" width="600"/></td></tr>
   </table>
  
 ## Education
