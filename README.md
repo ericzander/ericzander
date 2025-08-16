@@ -42,7 +42,7 @@ I also enjoy fitness, video games, and the universally beloved film Chicken Litt
 > Under construction
 - **[WIP] Anomaly Detection in Python Package Index (PyPI) Dependency Graphs // [GitHub](https://github.com/ericzander/pypi-anomaly-detection)**
 
-  ![Anomaly Detection](assets/projects/package_dependency_graph.png?v=2)
+  <img src="assets/projects/package_dependency_graph.png?v=2" alt="Anomaly Detection" width="800"/>
 
 - **Mario Kart World Timesheet Community Tool**
 
@@ -51,16 +51,16 @@ I also enjoy fitness, video games, and the universally beloved film Chicken Litt
   <div style="display: flex; flex-direction: column; gap: 20px;">
     <div style="display: flex; gap: 20px; justify-content: center;">
       <img src="assets/projects/mkw/tracks.png" alt="Mario Kart World Tracks" width="300"/>
-      <img src="assets/projects/mkw/table_compact.png" alt="Compact Table View" width="300"/>
+      <img src="assets/projects/mkw/table_compact.png" alt="Compact Table View" width="500"/>
     </div>
     <div style="display: flex; justify-content: center;">
-      <img src="assets/projects/mkw/table_staff.png" alt="Staff Table" width="600"/>
+      <img src="assets/projects/mkw/table_staff.png" alt="Staff Table" width="800"/>
     </div>
     <div style="display: flex; justify-content: center;">
-      <img src="assets/projects/mkw/table_wr.png" alt="World Records Table" width="600"/>
+      <img src="assets/projects/mkw/table_wr.png" alt="World Records Table" width="800"/>
     </div>
     <div style="display: flex; gap: 20px; justify-content: center;">
-      <img src="assets/projects/mkw/lap_times.png" alt="Lap Times Display" width="300"/>
+      <img src="assets/projects/mkw/lap_times.png" alt="Lap Times Display" width="500"/>
       <img src="assets/projects/mkw/table_laps.png" alt="Lap Times Table" width="300"/>
     </div>
   </div>
