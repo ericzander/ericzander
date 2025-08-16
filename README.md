@@ -47,20 +47,20 @@ I also enjoy fitness, video games, and the universally beloved film Chicken Litt
 
 > A dashboard for entering and comparing time trial data in Mario Kart World to staff ghosts, world records (updated daily), and other players. Supports desktop and mobile.
 
-  <table>
+  <table style="width: 800px; border-collapse: collapse;">
     <tr>
-      <td><img src="assets/projects/mkw/header.png" alt="MKW Header" width="333"/></td>
-      <td><img src="assets/projects/mkw/table_compact.png" alt="MKW Compact" width="467"/></td>
+      <td style="width: 330px; padding: 5px;"><img src="assets/projects/mkw/header.png" alt="MKW Header" style="width: 100%; height: auto;"/></td>
+      <td style="width: 570px; padding: 5px;"><img src="assets/projects/mkw/table_compact.png" alt="MKW Compact" style="width: 100%; height: auto;"/></td>
     </tr>
     <tr>
-      <td colspan="2"><img src="assets/projects/mkw/table_staff.png" alt="MKW Staff" width="800"/></td>
+      <td colspan="2" style="padding: 5px;"><img src="assets/projects/mkw/table_staff.png" alt="MKW Staff" style="width: 100%; height: auto;"/></td>
     </tr>
     <tr>
-      <td colspan="2"><img src="assets/projects/mkw/table_wr.png" alt="MKW Records" width="800"/></td>
+      <td colspan="2" style="padding: 5px;"><img src="assets/projects/mkw/table_wr.png" alt="MKW Records" style="width: 100%; height: auto;"/></td>
     </tr>
     <tr>
-      <td><img src="assets/projects/mkw/lap_times.png?v=2" alt="MKW Laps" width="560"/></td>
-      <td><img src="assets/projects/mkw/table_laps.png" alt="MKW Lap Times" width="240"/></td>
+      <td style="width: 560px; padding: 5px;"><img src="assets/projects/mkw/lap_times.png?v=2" alt="MKW Laps" style="width: 100%; height: auto;"/></td>
+      <td style="width: 240px; padding: 5px;"><img src="assets/projects/mkw/table_laps.png" alt="MKW Lap Times" style="width: 100%; height: auto;"/></td>
     </tr>
   </table>
  
