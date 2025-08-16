@@ -48,24 +48,24 @@ I also enjoy fitness, video games, and the universally beloved film Chicken Litt
 
   [www.mkworldtimes.com](https://www.mkworldtimes.com)
 
-  <div style="background-color: rgba(255, 255, 255, 0.02); border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 6px; padding: 20px; margin: 20px 0;">
-    <div style="display: flex; flex-direction: column; gap: 20px;">
-             <div style="display: flex; gap: 20px; justify-content: center; width: 800px; margin: 0 auto;">
-         <img src="assets/projects/mkw/tracks.png" alt="Mario Kart World Tracks" style="width: 380px; height: auto; object-fit: contain;"/>
-         <img src="assets/projects/mkw/table_compact.png" alt="Compact Table View" style="width: 400px; height: auto; object-fit: contain;"/>
+     <div style="background-color: rgba(255, 255, 255, 0.02); border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 6px; padding: 20px; margin: 20px 0;">
+     <div style="display: flex; flex-direction: column; gap: 20px;">
+       <div style="display: flex; gap: 20px; justify-content: center; width: 800px; margin: 0 auto;">
+         <img src="assets/projects/mkw/tracks.png" alt="Mario Kart World Tracks" style="flex: 1; height: auto; object-fit: contain;"/>
+         <img src="assets/projects/mkw/table_compact.png" alt="Compact Table View" style="flex: 1; height: auto; object-fit: contain;"/>
        </div>
-      <div style="display: flex; justify-content: center;">
-        <img src="assets/projects/mkw/table_staff.png" alt="Staff Table" width="800"/>
-      </div>
-      <div style="display: flex; justify-content: center;">
-        <img src="assets/projects/mkw/table_wr.png" alt="World Records Table" width="800"/>
-      </div>
-             <div style="display: flex; gap: 20px; justify-content: center; width: 800px; margin: 0 auto;">
-         <img src="assets/projects/mkw/lap_times.png" alt="Lap Times Display" style="width: 400px; height: auto; object-fit: contain;"/>
-         <img src="assets/projects/mkw/table_laps.png" alt="Lap Times Table" style="width: 380px; height: auto; object-fit: contain;"/>
+       <div style="display: flex; justify-content: center;">
+         <img src="assets/projects/mkw/table_staff.png" alt="Staff Table" width="800"/>
        </div>
-    </div>
-  </div>
+       <div style="display: flex; justify-content: center;">
+         <img src="assets/projects/mkw/table_wr.png" alt="World Records Table" width="800"/>
+       </div>
+       <div style="display: flex; gap: 20px; justify-content: center; width: 800px; margin: 0 auto;">
+         <img src="assets/projects/mkw/lap_times.png" alt="Lap Times Display" style="flex: 1; height: auto; object-fit: contain;"/>
+         <img src="assets/projects/mkw/table_laps.png" alt="Lap Times Table" style="flex: 1; height: auto; object-fit: contain;"/>
+       </div>
+     </div>
+   </div>
 
  
 ## Education
