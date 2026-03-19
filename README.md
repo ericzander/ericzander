@@ -1,7 +1,5 @@
 # Eric Zander
 
-<img src="assets/1000009864.jpg" alt="Pic" width="200"/>
-
 **`Machine Learning | Data Science | Applied History`**
 
 ## About Me
@@ -36,33 +34,6 @@ I also enjoy fitness, video games, and the universally beloved film Chicken Litt
     - Self-supervised Learning (Contrastive Learning)
     - Genetic Algorithms
     - Fuzzy Logic
-
-## Projects
-
-### **[WIP] Anomaly Detection in Python Package Index (PyPI) Dependency Graphs // [GitHub](https://github.com/ericzander/pypi-anomaly-detection)**
-
-  <img src="assets/projects/package_dependency_graph.png?v=2" alt="Anomaly Detection" width="600"/>
-
-### **Mario Kart World Timesheet Community Tool // [www.mkworldtimes](https://www.mkworldtimes.com)**
-
-> A dashboard for entering and comparing time trial data in Mario Kart World to staff ghosts, world records (updated daily), and other players. Supports desktop and mobile.
-
-  <table style="width: 800px; border-collapse: collapse;">
-    <tr>
-      <td style="width: 330px; padding: 5px;"><img src="assets/projects/mkw/header.png" alt="MKW Header" style="width: 100%; height: auto;"/></td>
-      <td style="width: 570px; padding: 5px;"><img src="assets/projects/mkw/table_compact.png" alt="MKW Compact" style="width: 100%; height: auto;"/></td>
-    </tr>
-    <tr>
-      <td colspan="2" style="padding: 5px;"><img src="assets/projects/mkw/table_staff.png" alt="MKW Staff" style="width: 100%; height: auto;"/></td>
-    </tr>
-    <tr>
-      <td colspan="2" style="padding: 5px;"><img src="assets/projects/mkw/table_wr.png" alt="MKW Records" style="width: 100%; height: auto;"/></td>
-    </tr>
-    <tr>
-      <td style="width: 560px; padding: 5px;"><img src="assets/projects/mkw/lap_times.png?v=2" alt="MKW Laps" style="width: 100%; height: auto;"/></td>
-      <td style="width: 240px; padding: 5px;"><img src="assets/projects/mkw/table_laps.png" alt="MKW Lap Times" style="width: 100%; height: auto;"/></td>
-    </tr>
-  </table>
  
 ## Education
 
@@ -80,6 +51,10 @@ I also enjoy fitness, video games, and the universally beloved film Chicken Litt
   *Magna Cum Laude, 2019*
 
 ## Experience
+
+- **Graduate Student Researcher**  
+  *Security in Agentic AI and Robotics*  
+  Center for Cybersecurity and Privacy, University of Oregon, Dec 2025 - Present
 
 - **Summer Instructor**  
   *Machine Learning and Its Applications*  
