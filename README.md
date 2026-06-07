@@ -1,7 +1,5 @@
 # Eric Zander
 
-**`Machine Learning | Data Science | Applied History`**
-
 ## About Me
 
 Starting with a background in applied history, I have followed the impact of emerging technologies. This interest led me to the fields of data science and machine learning, where I apply analytical skills alongside historical insights to view data science as a modern form of applied history.
