@@ -8,18 +8,22 @@ Starting with a background in applied history, I have followed the impact of eme
 
 In my early projects, I focused on explainable modeling for medicine, both in diagnosis and treatment. This work laid the foundation for my ongoing interest in making complex systems more transparent and understandable. I've presented at fuzzy logic conferences on methods for explainable control systems and have developed machine learning curricula to make complex concepts more accessible.
 
-Currently, I am in my second year of pursuing a Master of Science in Computer Science at the University of Oregon, where my interests have expanded to include graph machine learning and probabilistic methods in AI.
+Currently, I am in my second year of pursuing a Master of Science in Computer Science at the University of Oregon, where my interests have expanded to include graph machine learning, probabilistic methods in AI, and, most significantly, safety and reliability in foundation model-driven robotics. It is the latter where I have spent my time researching and developing my master's thesis.
 
 I also enjoy fitness, video games, and the universally beloved film Chicken Little.
 
+## Presentation Portfolio
+
+If you're interested, see https://ericzander.github.io/presentation-portfolio/ for some slides and links to presentations I have given as a master's student! While the page reflects some of my interests and background, I hope it mostly serves to introduce some topics you may find interesting and point to some relevant literature.
 
 ## Skills
 
-- **Programming**: Python (Data Science, ML), C/C++
+- **Programming**: Python, C/C++, whatever works
 - **Tools**: Git, VS Code, Cursor
 - **Cloud**: AWS, GCP
-- **OS**: Windows, Linux (Debian)
-- **Office**: PowerPoint, Excel/Google Sheets
+- **OS**: Windows, Linux (esp. Debian)
+- **Other**: Blender, Resolve
+<!-- - **Office**: PowerPoint, Excel/Google Sheets -->
 
 - **Data Science & Machine Learning**:
   - **Libraries**:
@@ -34,21 +38,26 @@ I also enjoy fitness, video games, and the universally beloved film Chicken Litt
     - Self-supervised Learning (Contrastive Learning)
     - Genetic Algorithms
     - Fuzzy Logic
+- **Robotics**
+  - **Simulation**: Gazebo, working on Isaac Sim
+  - **Platforms**: ROS2
+  - **CAD**: I've used Blender w/ LinkForge, looking at other options
  
 ## Education
 
 - **MS in Computer Science**  
-  University of Oregon  
-  *In progress, expected graduation 2025*
+  University of Oregon, 2026  
+  Thesis Track  
+  *GPA: 4.0*
 
 - **BS in Computer Science in Machine Learning**  
-  DigiPen Institute of Technology  
-  *Minor in Mathematics*  
-  *Summa Cum Laude, 2023*
+  DigiPen Institute of Technology, 2023  
+  Minor in Mathematics  
+  *Summa Cum Laude*
 
 - **BA in History and Psychology**  
-  Gonzaga University  
-  *Magna Cum Laude, 2019*
+  Gonzaga University, 2019  
+  *Magna Cum Laude*
 
 ## Experience
 
