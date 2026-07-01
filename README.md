@@ -39,9 +39,8 @@ If you're interested, see https://ericzander.github.io/presentation-portfolio/ f
     - Genetic Algorithms
     - Fuzzy Logic
 - **Robotics**
-  - **Simulation**: Gazebo, working on Isaac Sim
+  - **Simulation**: Gazebo, Isaac Sim
   - **Platforms**: ROS2
-  - **CAD**: I've used Blender w/ LinkForge, looking at other options
  
 ## Education
 
